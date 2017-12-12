@@ -102,9 +102,9 @@ export default function Home({ baseUrl }) {
             The launch of the Topcoder Veterans Community represents
             a&nbsp;major milestone in our ongoing mission to help veterans
             develop new skills and successfully transition to meaningful
-            civilian jobs. This community helps the VA, as well as other
-            organizations, accelerate product and technology development
-            initiatives while supporting our veteran workforce developments.
+            civilian jobs. This community is helping the VA, as well as other
+            organizations, accelerate technology innovation development 
+            while supporting important workforce development for Veterans.
             <span styleName="style.qouteCommas style.right">&rdquo;</span>
           </div>
           <div styleName="style.qouteNote">
